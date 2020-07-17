@@ -2,7 +2,7 @@
 
 Letter Connect is a novel game invented by the almighty engineers at Plexagon to pass time while their code is compiling.
 
-The game works in a simple way:
+The game is played by 2 players and the rules are the following:
 
 
 
